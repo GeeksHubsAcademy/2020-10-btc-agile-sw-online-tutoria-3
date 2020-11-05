@@ -4,6 +4,9 @@
     <img src="https://github.com/GeeksHubsAcademy/2020-geekshubs-media/blob/master/image/githubagilesoftware.jpg" >	
 </p>
 
+
+[![Build Status](https://travis-ci.com/GeeksHubsAcademy/2020-10-btc-agile-sw-online-tutoria-3.svg?branch=master)](https://travis-ci.com/GeeksHubsAcademy/2020-10-btc-agile-sw-online-tutoria-3)
+
 Install
 ```
 typescript    https://www.typescriptlang.org/
